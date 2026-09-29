@@ -1,0 +1,13 @@
+langchain>=0.2.0
+langchain-core
+langgraph>=0.1.0
+langchain-google-genai
+langchain-community>=0.2.0
+langchain-pinecone
+langchain-text-splitters
+pinecone
+pypdf>=4.0.0
+fastapi>=0.110.0
+uvicorn>=0.28.0
+python-dotenv>=1.0.0
+requests
